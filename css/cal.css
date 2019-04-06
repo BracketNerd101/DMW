@@ -1,0 +1,23 @@
+body {
+  min-height: 1200px; }
+
+.large_sep {
+  margin-top: 8rem; }
+
+.small_sep {
+  margin-top: 4rem; }
+
+.mini_sep {
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem; }
+
+.large_sep_bottom {
+  margin-bottom: 8rem; }
+
+.small_sep_bottom {
+  margin-bottom: 4rem; }
+
+.bg-black {
+  background-color: #000000; }
+
+/*# sourceMappingURL=cal.css.map */
