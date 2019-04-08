@@ -4,7 +4,6 @@ body {
 
 }
 
-
 .large_sep {
 
     margin-top: 8rem;
@@ -38,4 +37,27 @@ body {
 .bg-black {
 
     background-color: #000000;
+}
+
+.hero_bottom_style {
+
+    margin-bottom: 0px;
+}
+
+
+.bg_workout_pink {
+
+
+    background-color: #FF2D55 ;
+}
+
+
+.bg_workout_img {
+
+
+background-image: url('../img/work_out_img.jpg') ;
+background-size: cover;
+height: 35rem;
+width: 100%;
+    
 }
