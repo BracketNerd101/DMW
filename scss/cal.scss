@@ -10,6 +10,27 @@ body {
     min-height: 1200px;
 
 }
+.jumbotron {
+
+    background-color: none;
+}
+.lift_banner-1 {
+
+    background-size: cover;
+    background-image: url('../img/mike.jpg');
+    height: 60rem;
+    width: 100%;
+
+}
+
+.lift_banner {
+
+    background-size: cover;
+    background-image: url('../img/lift_bro.jpg');
+    height: 60rem;
+    width: 100%;
+
+}
 
 .large_sep {
 
@@ -62,7 +83,7 @@ body {
 
 .quote_style_font {
     font-family: 'Playfair Display', serif;
-    color: #000000;
+    color: #ffffff;
 
 }
 
