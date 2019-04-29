@@ -52,6 +52,9 @@ body {
 .day_style {
   font-family: 'Playfair Display', serif; }
 
+.bg-purple {
+  background-color: purple; }
+
 .bg_workout_img {
   background-image: url("../img/work_out_img.jpg");
   background-size: cover;
